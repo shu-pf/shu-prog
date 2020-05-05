@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName “sample”
+AuthUserFile /home/shu-pf/www/shu-prog/.htpasswd
+require valid-user

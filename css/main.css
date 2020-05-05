@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@media screen and (min-width: 992px) {
+  /*　画面サイズが1024pxからはここを読み込む　*/
+  .pos-absolute {
+    position: absolute;
+  }
+  .pos-relative {
+    position: re;
+  }
+}
+/*# sourceMappingURL=main.css.map */
