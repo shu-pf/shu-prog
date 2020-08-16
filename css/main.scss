@@ -1,3 +1,10 @@
+
+img {
+  //アスペクト比率を維持したまま余白を表示
+  // 参考:https://www.webcreatorbox.com/tech/object-fit
+  object-fit: contain;
+}
+
 @media screen and (min-width:1024px) {
   /*　画面サイズが1024pxからはここを読み込む　*/
 
